@@ -252,11 +252,10 @@ img {
   text-align: center;
 }
 
-.pricing-block .btn-box button {
+.pricing-block .btn-box a {
   position: relative;
-  cursor: pointer;
+  display: inline-block;
   font-size: 14px;
-  border: none;
   line-height: 25px;
   color: #ffffff;
   font-weight: 500;

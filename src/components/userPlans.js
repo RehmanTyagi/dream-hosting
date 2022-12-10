@@ -28,7 +28,9 @@ function userPlans() {
                   <li class="false">Free 1-click WordPress install</li>
                 </ul>
                 <div class="btn-box">
-                  <button class="theme-btn">BUY plan</button>
+                  <a href="https://imjo.in/Jurtrs" class="theme-btn">
+                    BUY plan
+                  </a>
                 </div>
               </div>
             </div>
@@ -55,7 +57,9 @@ function userPlans() {
                   <li class="false">Free 1-click WordPress install</li>
                 </ul>
                 <div class="btn-box">
-                  <button class="theme-btn">BUY plan</button>
+                  <a href="https://imjo.in/b4J4nF" class="theme-btn">
+                    BUY plan
+                  </a>
                 </div>
               </div>
             </div>
@@ -82,7 +86,9 @@ function userPlans() {
                   <li class="true">Free 1-click WordPress install</li>
                 </ul>
                 <div class="btn-box">
-                  <button class="theme-btn">BUY plan</button>
+                  <a href="https://imjo.in/FajM7p" class="theme-btn">
+                    BUY plan
+                  </a>
                 </div>
               </div>
             </div>
