@@ -1,0 +1,32 @@
+.navbar {
+  border: 1px solid black;
+  background-color: white;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index: 1000;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+}
+.list li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.1rem;
+  padding-inline-start: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.logo {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: blue;
+}
+
+.logo span {
+  color: #e63946;
+}
