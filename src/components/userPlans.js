@@ -28,7 +28,7 @@ function userPlans() {
                   <li class="false">Free 1-click WordPress install</li>
                 </ul>
                 <div class="btn-box">
-                  <a href="https://imjo.in/Jurtrs" class="theme-btn">
+                  <a href="https://rzp.io/i/zR5Ia6T5" class="theme-btn">
                     BUY plan
                   </a>
                 </div>
