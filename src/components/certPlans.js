@@ -54,7 +54,7 @@ function CertificatePlans() {
                 </div>
 
                 <div class="generic_price_btn clearfix">
-                  <a class="" href="">
+                  <a class="" href="https://rzp.io/i/Thd9OER">
                     Sign up
                   </a>
                 </div>
@@ -106,7 +106,7 @@ function CertificatePlans() {
                 </div>
 
                 <div class="generic_price_btn clearfix">
-                  <a class="" href="">
+                  <a class="" href="https://rzp.io/i/JitSvdA">
                     Sign up
                   </a>
                 </div>
@@ -157,7 +157,7 @@ function CertificatePlans() {
                 </div>
 
                 <div class="generic_price_btn clearfix">
-                  <a class="" href="">
+                  <a class="" href="https://dreamhosting.netlify.app/">
                     Sign up
                   </a>
                 </div>
